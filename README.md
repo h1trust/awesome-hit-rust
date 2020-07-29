@@ -1,6 +1,6 @@
-# awesome-hit-rust
-A curated list of Rust code and resources made from HIT.
+# Awesome Rust from Hitrust
 
+A curated list of Rust code and resources made from HIT.
 
 ## Resources
 
