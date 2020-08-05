@@ -28,4 +28,4 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 - [kvs](https://github.com/raptazure/kvs) - A simple key-value database.
 - [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
-- [stray](https://github.com/raptazure/stray) - A simple and multithreaded web server.
+- [OS summer](https://github.com/Lincyaw/Rust_os_summer) - 鹏城实验室和清华大学合办的项目
