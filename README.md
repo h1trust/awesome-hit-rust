@@ -27,5 +27,6 @@ A curated list of Rust code and resources from Hitrust.
 For more codes and projects written in Rust, please take a look at [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust). Here are mainly some wheels about HIT courses and personal hobbies.
 
 - [kvs](https://github.com/raptazure/kvs) - A simple key-value database.
+- [xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust) - A project intending to port xv6-riscv using Rust.
 - [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
 - [OS summer](https://github.com/Lincyaw/Rust_os_summer) - 鹏城实验室和清华大学合办的项目
