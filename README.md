@@ -30,3 +30,4 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 - [xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust) - A project intending to port xv6-riscv using Rust.
 - [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
 - [OS summer](https://github.com/Lincyaw/Rust_os_summer) - 鹏城实验室和清华大学合办的项目
+- [leetcode](https://github.com/miRoox/Leetcode) - miRoox's solution for leetcode
