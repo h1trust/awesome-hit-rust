@@ -1,6 +1,7 @@
 # Contributing
 
-Contributions in all forms are welcomed. There is only one thing to keep in mind throughout the process: please make sure your work is beneficial to others.
+Contributions in all forms are welcomed.  
+There is only one thing to keep in mind throughout the process: please make sure your work is beneficial to others.
 
 ## Adding an entry
 
