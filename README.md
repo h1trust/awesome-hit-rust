@@ -8,8 +8,10 @@ If you want to contribute, please read [this](https://github.com/h1trust/awesome
 
 - [Codes](https://github.com/h1trust/awesome-hit-rust#codes)
   - [Algorithm](https://github.com/h1trust/awesome-hit-rust#algorithm)
+  - [Compiler](https://github.com/h1trust/awesome-hit-rust#compiler)
   - [Computer Graphics](https://github.com/h1trust/awesome-hit-rust#computer-graphics)
   - [Database](https://github.com/h1trust/awesome-hit-rust#database)
+  - [Network](https://github.com/h1trust/awesome-hit-rust#network)
   - [Operating System](https://github.com/h1trust/awesome-hit-rust#operating-system)
 - [Resources](https://github.com/h1trust/awesome-hit-rust#resources)
   - [Videos](https://github.com/h1trust/awesome-hit-rust#videos)
@@ -24,6 +26,10 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 - [leetcode](https://github.com/miRoox/Leetcode) - miRoox's solution for leetcode.
 
+#### Compiler
+
+- [rcc](https://github.com/12101111/rcc) - C compiler written in Rust.
+
 #### Computer Graphics
 
 - [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
@@ -32,9 +38,14 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 - [kvs](https://github.com/raptazure/kvs) - A simple key-value database.
 
+#### Network
+
+- [nettest](https://github.com/12101111/nettest) - All-in-one network test tool.
+
 #### Operating System
 
 - [OS summer](https://github.com/Lincyaw/Rust_os_summer) - 鹏城实验室和清华大学合办的项目
+- [puyu-os](https://github.com/12101111/os) - Operating system written in Rust. Only support UEFI x86_64.
 - [xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust) - A project intending to port xv6-riscv using Rust.
 
 ## Resources
