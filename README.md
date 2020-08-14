@@ -44,8 +44,8 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 #### Operating System
 
-- [OS summer](https://github.com/Lincyaw/Rust_os_summer) - 鹏城实验室和清华大学合办的项目
 - [12101111-os](https://github.com/12101111/os) - Operating system written in Rust. Only support UEFI x86_64.
+- [os-summer](https://github.com/Lincyaw/Rust_os_summer) - A joint project between Tsinghua University and Pengcheng Lab.
 - [xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust) - A project intending to port xv6-riscv using Rust.
 
 ## Resources
