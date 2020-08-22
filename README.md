@@ -11,6 +11,7 @@ If you want to contribute, please read [this](https://github.com/h1trust/awesome
   - [Compiler](https://github.com/h1trust/awesome-hit-rust#compiler)
   - [Computer Graphics](https://github.com/h1trust/awesome-hit-rust#computer-graphics)
   - [Database](https://github.com/h1trust/awesome-hit-rust#database)
+  - [FFI](https://github.com/h1trust/awesome-hit-rust#ffi)
   - [Network](https://github.com/h1trust/awesome-hit-rust#network)
   - [Operating System](https://github.com/h1trust/awesome-hit-rust#operating-system)
 - [Resources](https://github.com/h1trust/awesome-hit-rust#resources)
@@ -37,6 +38,10 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 #### Database
 
 - [kvs](https://github.com/raptazure/kvs) - A simple key-value database.
+
+#### FFI
+
+- [wll](https://github.com/miRoox/wll-rs) - Wolfram LibraryLink interface for Rust.
 
 #### Network
 
