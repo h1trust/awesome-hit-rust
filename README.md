@@ -37,7 +37,7 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 #### Database
 
-- [kvs](https://github.com/raptazure/kvs) - A simple key-value database.
+- [kvs](https://github.com/raptazure/kvs) - A multi-threaded, persistent key/value store.
 
 #### FFI
 
@@ -50,6 +50,7 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 #### Operating System
 
 - [12101111-os](https://github.com/12101111/os) - Operating system written in Rust. Only support UEFI x86_64.
+- [fbterm](https://github.com/12101111/fbterm) - A terminal emulator for any framebuffer. Also contains an abstraction of the framebuffer, which can draw images by pixel.
 - [os-summer](https://github.com/Lincyaw/Rust_os_summer) - A joint project between Tsinghua University and Pengcheng Lab.
 - [xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust) - A project intending to port xv6-riscv using Rust.
 
@@ -67,7 +68,6 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 - [Educational blog posts for Rust beginners](https://github.com/pretzelhammer/rust-blog)
 - [Strong types, strong lifts - snoyberg](https://www.snoyman.com/)
 - [Writing an OS in Rust](https://os.phil-opp.com/)
-
 
 #### Information
 
