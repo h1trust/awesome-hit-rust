@@ -10,7 +10,7 @@ If you want to contribute, please read [this](https://github.com/h1trust/awesome
   - [Algorithm](https://github.com/h1trust/awesome-hit-rust#algorithm)
   - [Compiler](https://github.com/h1trust/awesome-hit-rust#compiler)
   - [Computer Graphics](https://github.com/h1trust/awesome-hit-rust#computer-graphics)
-  - [Computer Vision](https://github.com/h1trust/awesome-hit#computer-vision)
+  - [Computer Vision](https://github.com/h1trust/awesome-hit-rust#computer-vision)
   - [Database](https://github.com/h1trust/awesome-hit-rust#database)
   - [FFI](https://github.com/h1trust/awesome-hit-rust#ffi)
   - [Network](https://github.com/h1trust/awesome-hit-rust#network)
