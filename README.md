@@ -10,6 +10,7 @@ If you want to contribute, please read [this](https://github.com/h1trust/awesome
   - [Algorithm](https://github.com/h1trust/awesome-hit-rust#algorithm)
   - [Compiler](https://github.com/h1trust/awesome-hit-rust#compiler)
   - [Computer Graphics](https://github.com/h1trust/awesome-hit-rust#computer-graphics)
+  - [Computer Vision](https://github.com/h1trust/awesome-hit#computer-vision)
   - [Database](https://github.com/h1trust/awesome-hit-rust#database)
   - [FFI](https://github.com/h1trust/awesome-hit-rust#ffi)
   - [Network](https://github.com/h1trust/awesome-hit-rust#network)
@@ -35,9 +36,15 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 - [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
 
+#### Computer Vision
+
+- [yolo-rs](https://github.com/12101111/yolo-rs) - About
+  Yolov3 & Yolov4 with TVM and Rust.
+
 #### Database
 
 - [kvs](https://github.com/raptazure/kvs) - A multi-threaded, persistent key/value store.
+- [medis-rs](https://github.com/raptazure/medis-rs) - Minimal Redis client and server implementation using Tokio.
 
 #### FFI
 
