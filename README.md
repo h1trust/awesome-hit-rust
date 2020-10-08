@@ -9,12 +9,14 @@ If you want to contribute, please read [this](https://github.com/h1trust/awesome
 - [Codes](https://github.com/h1trust/awesome-hit-rust#codes)
   - [Algorithm](https://github.com/h1trust/awesome-hit-rust#algorithm)
   - [Compiler](https://github.com/h1trust/awesome-hit-rust#compiler)
-  - [Computer Graphics](https://github.com/h1trust/awesome-hit-rust#computer-graphics)
   - [Computer Vision](https://github.com/h1trust/awesome-hit-rust#computer-vision)
   - [Database](https://github.com/h1trust/awesome-hit-rust#database)
+  - [Emulators](https://github.com/h1trust/awesome-hit-rust#emulators)
   - [FFI](https://github.com/h1trust/awesome-hit-rust#ffi)
+  - [Graphics](https://github.com/h1trust/awesome-hit-rust#graphics)
   - [Network](https://github.com/h1trust/awesome-hit-rust#network)
-  - [Operating System](https://github.com/h1trust/awesome-hit-rust#operating-system)
+  - [Operating Systems](https://github.com/h1trust/awesome-hit-rust#operating-systems)
+  - [Web](https://github.com/h1trust/awesome-hit-rust#web)
 - [Resources](https://github.com/h1trust/awesome-hit-rust#resources)
   - [Videos](https://github.com/h1trust/awesome-hit-rust#videos)
   - [Articles](https://github.com/h1trust/awesome-hit-rust#articles)
@@ -32,10 +34,6 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 - [rcc](https://github.com/12101111/rcc) - C compiler written in Rust.
 
-#### Computer Graphics
-
-- [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
-
 #### Computer Vision
 
 - [yolo-rs](https://github.com/12101111/yolo-rs) - About
@@ -46,20 +44,32 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 - [kvs](https://github.com/raptazure/kvs) - A multi-threaded, persistent key/value store.
 - [medis-rs](https://github.com/raptazure/medis-rs) - Minimal Redis client and server implementation using Tokio.
 
+#### Emulators
+
+- [fbterm](https://github.com/12101111/fbterm) - A terminal emulator for any framebuffer. Also contains an abstraction of the framebuffer, which can draw images by pixel.
+- [oxidenes](https://github.com/12101111/oxidenes) - This is just another NES emulator.
+
 #### FFI
 
 - [wll](https://github.com/miRoox/wll-rs) - Wolfram LibraryLink interface for Rust.
+
+#### Graphics
+
+- [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
 
 #### Network
 
 - [nettest](https://github.com/12101111/nettest) - All-in-one network test tool.
 
-#### Operating System
+#### Operating Systems
 
 - [12101111-os](https://github.com/12101111/os) - Operating system written in Rust. Only support UEFI x86_64.
-- [fbterm](https://github.com/12101111/fbterm) - A terminal emulator for any framebuffer. Also contains an abstraction of the framebuffer, which can draw images by pixel.
 - [os-summer](https://github.com/Lincyaw/Rust_os_summer) - A joint project between Tsinghua University and Pengcheng Lab.
 - [xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust) - A project intending to port xv6-riscv using Rust.
+
+#### Web
+
+- [breeze](https://github.com/raptazure/breeze) - A minimal browser engine written in Rust.
 
 ## Resources
 
@@ -79,3 +89,4 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 #### Information
 
 - [Rust 语言中文社区](https://rustcc.cn/) — 为数不多且较为活跃的 Rust 中文社区，会定期发布 Rust 周报和日报。
+- [This Week in Rust](https://this-week-in-rust.org/) - Stay up to date with events, learning resources, and recent developments in Rust community.
