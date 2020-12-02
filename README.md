@@ -13,7 +13,6 @@ If you want to contribute, please read [this](https://github.com/h1trust/awesome
   - [Database](https://github.com/h1trust/awesome-hit-rust#database)
   - [Emulators](https://github.com/h1trust/awesome-hit-rust#emulators)
   - [FFI](https://github.com/h1trust/awesome-hit-rust#ffi)
-  - [Graphics](https://github.com/h1trust/awesome-hit-rust#graphics)
   - [Network](https://github.com/h1trust/awesome-hit-rust#network)
   - [Operating Systems](https://github.com/h1trust/awesome-hit-rust#operating-systems)
   - [Web](https://github.com/h1trust/awesome-hit-rust#web)
@@ -29,6 +28,7 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 #### Algorithm
 
 - [leetcode](https://github.com/miRoox/Leetcode) - miRoox's solution for leetcode.
+- [mandelbrot](https://github.com/raptazure/mandelbrot) - A parallel mandelbrot set generator. 
 
 #### Compiler
 
@@ -41,8 +41,8 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 #### Database
 
-- [kvs](https://github.com/raptazure/kvs) - A multi-threaded, persistent key/value store.
-- [medis-rs](https://github.com/raptazure/medis-rs) - Minimal Redis client and server implementation using Tokio.
+- [unity.kv](https://github.com/raptazure/unity.kv) - A multi-threaded, persistent key/value store.
+- [medis.tk](https://github.com/raptazure/medis.tk) - Minimal Redis client and server implementation using Tokio.
 
 #### Emulators
 
@@ -52,10 +52,6 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 #### FFI
 
 - [wll](https://github.com/miRoox/wll-rs) - Wolfram LibraryLink interface for Rust.
-
-#### Graphics
-
-- [raytracer](https://github.com/raptazure/raytracer) - Rust implementation of “Ray Tracing in One Weekend”.
 
 #### Network
 
@@ -69,7 +65,7 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 
 #### Web
 
-- [breeze](https://github.com/raptazure/breeze) - A minimal browser engine written in Rust.
+- [mengine.rs](https://github.com/raptazure/mengine.rs) - A minimal browser engine written in Rust.
 
 ## Resources
 
