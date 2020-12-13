@@ -15,6 +15,7 @@ If you want to contribute, please read [this](https://github.com/h1trust/awesome
   - [FFI](https://github.com/h1trust/awesome-hit-rust#ffi)
   - [Network](https://github.com/h1trust/awesome-hit-rust#network)
   - [Operating Systems](https://github.com/h1trust/awesome-hit-rust#operating-systems)
+  - [Embedded](https://github.com/h1trust/awesome-hit-rust#embedded)
   - [Web](https://github.com/h1trust/awesome-hit-rust#web)
 - [Resources](https://github.com/h1trust/awesome-hit-rust#resources)
   - [Videos](https://github.com/h1trust/awesome-hit-rust#videos)
@@ -62,6 +63,10 @@ For more codes and projects written in Rust, please take a look at [rust-unoffic
 - [12101111-os](https://github.com/12101111/os) - Operating system written in Rust. Only support UEFI x86_64.
 - [os-summer](https://github.com/Lincyaw/Rust_os_summer) - A joint project between Tsinghua University and Pengcheng Lab.
 - [xv6-riscv-rust](https://github.com/Jaic1/xv6-riscv-rust) - A project intending to port xv6-riscv using Rust.
+
+#### Embedded
+
+- [stm32-rustup](https://github.com/Logiase/stm32-rustup) - A guide to rust up your STM32 micro controller and lead you into embedded rust world.
 
 #### Web
 
